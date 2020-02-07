@@ -1,2 +1,2 @@
 # UnityBlockBreaker
-Experiencing Unity with block breaker gamge
+Experiencing Unity with block breaker game
